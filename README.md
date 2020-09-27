@@ -10,7 +10,7 @@ Also the dataset is really big so couldn't upload that as well (100,000+ picture
 
 # New
 
-Original project only handled white hand on black background. I added black hand on white background (My histogram wouldn't show a proper black background So ..) by adding new dataset
+Original project only handled white hand on black background. I added black hand on white background (My histogram wouldn't show a proper black background So ..) by adding new pictures on the dataset.
 
 # Based On
 Saha, D.. (2018, May 9). Sign-Language (Version 1). figshare. https://doi.org/10.6084/m9.figshare.6241901.v1A very simple CNN project.
